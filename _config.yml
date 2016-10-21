@@ -1,6 +1,6 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: 倩影-Qiary
+description: This is Qiary' home.
 logo: favicon.png
 url: kongsong.me
 rss_url: /feed.xml
@@ -20,13 +20,13 @@ sass:
   style:            compressed
 
 # Social Links
-email:               hi@kongsong.me
+email:               muyuzilian@live.cn
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+#facebook:            kongsong
+#github:              songkong
+#stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:           kongsong
 #xing:              username
 #instagram:          username
 #lastfm:            username
